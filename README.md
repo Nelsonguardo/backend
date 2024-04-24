@@ -16,7 +16,8 @@ Si aún no tienes instalo Node:
    
    ```bash
    node -v
-   npm -v```
+   npm -v
+```
 
   Clona el repositorio desde Git utilizando el siguiente comando en tu terminal:
 
