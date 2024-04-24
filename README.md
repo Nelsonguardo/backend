@@ -28,7 +28,7 @@ Si aún no tienes instalo Node:
 Utiliza el comando cd para ingresar al directorio de tu proyecto recién creado o clonado:
 
 ```bash
-backend
+cd backend
 ```
 
 ## 3. Instalar Dependencias
@@ -47,4 +47,10 @@ Utiliza el comando http-server para iniciar el servidor de desarrollo:
 
 ```bash
 node server.js 
+```
+
+## 5. Descargar proyecto Frontend 
+
+```bash
+https://github.com/Nelsonguardo/directorio.git
 ```
